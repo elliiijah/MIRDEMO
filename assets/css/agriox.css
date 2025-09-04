@@ -7397,7 +7397,7 @@ button {
 =============================================
 ***/
 .contact-page {
-  position: relative;
+  position: absolute;
   display: block;
   background: #ffffff;
   padding: 120px 0px 120px;
