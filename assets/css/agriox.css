@@ -1164,7 +1164,7 @@ button {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  line-height: 30px;
+  line-height: 20px;
   color: #ffffff;
   font-size: 16px;
   font-family: var(--agriox-font, "DM Sans", sans-serif);
